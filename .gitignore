@@ -1,0 +1,24 @@
+ #ignore this
+bin/
+old/
+OLD/
+ignore/
+old
+
+#specific
+
+balljeu/
+CFOGE/
+eurorack-master/
+euroralck_rail_cheeks/
+FOX/
+littlescale/
+syntonie/
+
+LZX_GITHUB/
+LZX_modifed/
+
+SYNC_EXPLORER/
+dpx-lzx/
+*.ignore
+
