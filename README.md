@@ -1,19 +1,38 @@
 # dpx-Cadet_panels
-dubpixel made panels for the LZX cadet series of video synth modules
+**dubpixel** made panels for the LZX-cadet series of video synth modules.
+most recently LZX cleared out their backstock of some old boards.
+being in the middle of working on a euro-Vidiot panel, I used this as another exercise in definitively proving that:
+--im not that great at reverse-enginerring panels from other panels
+--i needed to re learn how to use a caliper to measure distances between holes, for real. 
 
+so now that this is over... expect rev2 for the ramps  soon!
+
+art-wise...
 the style is trying to be a bit cadet-ish but im not the biggest fan of the art that i made - it was more about getting the holes right :)
 
-
-STATUS as of 8.2.21://
-
-CADET II  - RGB Encoder :// looks very close -  if not 100% - did not have the lowermounting hardwarwe to confirm that it is in the right spot
-
-CADET IV - RAMPS :// NFG - needs bottom 3 holes to be adjusted. not sure what happened
-
-CADET V - SCALER :// fits, looks good. might be an issue with the gerber in the silkscreen but also may be MFG. 
+there are here:
+ai, dxf, fusion,360 eagle, and gerber files.
+if you need some other intermediate perhaps i can provide. email below.
 
 
-****process for creating these was roighly as follows****
+**//STATUS as of 8.2.21://**
+
+**CADET II  - RGB Encoder** :// looks very close -  if not 100% - did not have the lowermounting hardwarwe to confirm that it is in the right spot
+
+**CADET IV - RAMPS** :// NFG - needs bottom 3 holes to be adjusted. not sure what happened. PEBCAC (problem exists between caliper and chair)
+
+**CADET V - SCALER** :// fits, looks good. might be an issue with the gerber in the silkscreen but also may be MFG. 
+
+**if you arent up for mucking about and just wanna hit "PRINT" - **
+
+go to gerbers-->fromFusion--> ...those are the files i printed formatted for JLCPCB, sorted accoding to status. made in fusion electronics (BLEGH!)
+
+the files in fromEagle are theoretically identical from a physical perspective but may have minor variations in artwork as FE and eagle handle the dxf import in slightly different ways.
+im not a fan of Autodesk ansclussing eagle into fusion.
+but at least the poly import and text art workflow is getting speedier.
+
+
+****process for creating these was roughly as follows****
 
 ==>draw 2d sketch in Fusion using parametric dimensions for edge spacing, board size, hole spacing etc.
 -link all holes of same size to one hole.
