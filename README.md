@@ -1,13 +1,7 @@
 # dpx-Cadet_panels
 **dubpixel** made panels for the LZX-cadet series of video synth modules.
 most recently LZX cleared out their backstock of some old boards.
-being in the middle of working on a euro-Vidiot panel, I used this as another exercise in definitively proving that:
-
---im not that great at reverse-enginerring panels from other panels
-
---i needed to re learn how to use a caliper to measure distances between holes, for real. 
-
-so now that this is over... expect rev2 for the ramps  soon!
+being in the middle of working on a euro-Vidiot panel, I used this as another exercise in panel making with a quicker time to live on checking if my process worked.
 
 art-wise...
 the style is trying to be a bit cadet-ish but im not the biggest fan of the art that i made - it was more about getting the holes right :)
@@ -17,6 +11,15 @@ ai, dxf, fusion,360 eagle, and gerber files.
 if you need some other intermediate perhaps i can provide. email below.
 
 
+**//STATUS as of 8.4.21://**
+
+**CADET II  - RGB Encoder** :// looks very close -  if not 100% - did not have the lowermounting hardwarwe to confirm that it is in the right spot
+
+**CADET IV - RAMPS** :// fits, looks good. I dont know why when i assembled before i didnt feel it was right. 
+
+**CADET V - SCALER** :// fits, looks good. might be an issue with the gerber in the silkscreen but also may be MFG. 
+
+
 **//STATUS as of 8.2.21://**
 
 **CADET II  - RGB Encoder** :// looks very close -  if not 100% - did not have the lowermounting hardwarwe to confirm that it is in the right spot
@@ -24,6 +27,10 @@ if you need some other intermediate perhaps i can provide. email below.
 **CADET IV - RAMPS** :// NFG - needs bottom 3 holes to be adjusted. not sure what happened. PEBCAC (problem exists between caliper and chair)
 
 **CADET V - SCALER** :// fits, looks good. might be an issue with the gerber in the silkscreen but also may be MFG. 
+
+
+
+
 
 **if you arent up for mucking about and just wanna hit "PRINT" - **
 
