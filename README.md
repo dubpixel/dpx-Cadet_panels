@@ -1,5 +1,7 @@
 # dpx-Cadet_panels
 **dubpixel** made panels for the LZX-cadet series of video synth modules.
+
+
 most recently LZX cleared out their backstock of some old boards.
 being in the middle of working on a euro-Vidiot panel, I used this as another exercise in panel making with a quicker time to live on checking if my process worked.
 
@@ -13,9 +15,13 @@ if you need some other intermediate perhaps i can provide. email below.
 
 **//STATUS as of 8.4.21://**
 
+- any place PJ302M is used I have used MJ-3536N as that is only part in stock i had to check spacing. 
+- the diameter of the CUI part (MJ) is larger, and thusly the PJ302M fits with room to spare..maybe too much room (slop) but i only have 1 PJ to test with versus 12 MJ.
+
+
 **CADET II  - RGB Encoder** :// looks very close -  if not 100% - did not have the lowermounting hardwarwe to confirm that it is in the right spot
 
-**CADET IV - RAMPS** :// fits, looks good. I dont know why when i assembled before i didnt feel it was right. 
+**CADET IV - RAMPS** :// (revised) fits, looks good. I dont know why when i assembled before i didnt feel it was right. #needscoffee
 
 **CADET V - SCALER** :// fits, looks good. might be an issue with the gerber in the silkscreen but also may be MFG. 
 
