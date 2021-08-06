@@ -58,10 +58,14 @@ but at least the poly import and text art workflow is getting speedier.
 - create a 2d board link & it to the schemaitc
 - link the 3d board to the 2d board
 
-==>now you should have a board outline in eagle on layer 20. 
+==>now you should have a board outline in fusion electronics on layer 20.  
+- you can link this now to eagle if you want and continue the steps there, but the dxf import sadly works better in fusion electronics than eagle.
+- plus also the polys move faster...renders cleaner. 
+- RIP EAGLE... sad sad sad... George swears theyre not EOL'ing it but I dont beleive him. 
+- so sorry if i say eagle anywhere and actually mean 'fusion electronics' blegghhh..
 
 ==>i now start work with the addhole.ulp
-- use run addhole.ulp --install to install the contextural menu
+- use run 'addhole.ulp --install' to install the contextural menu
 - then u can now click each hole outline and have it replace with the right drill hole. p neato
 - back in fusion, now export your sketch to dxf
 - import the DXF into AI onto a layer and lock it - this is your board outline and hole reference
